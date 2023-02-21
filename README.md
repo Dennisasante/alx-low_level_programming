@@ -1,1 +1,1 @@
-This is the start to C programming
+this is a readme file
